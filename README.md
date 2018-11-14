@@ -1,5 +1,5 @@
 # min-char-rnn
-A RNN model for character prediction, built on the basis of the [code][https://gist.github.com/karpathy/d4dee566867f8291f086] written by [Andrej Karpathy][https://karpathy.github.io/].
+A RNN model for character prediction, built on the basis of the [code](https://gist.github.com/karpathy/d4dee566867f8291f086) written by [Andrej Karpathy](https://karpathy.github.io/).
 
 ### Requirements: 
 - Python 3.5  
